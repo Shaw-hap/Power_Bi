@@ -21,5 +21,5 @@ Maharashtra contributes the highest profit among states.<br>
 Certain months (May, July, Sept) show negative profit trends, highlighting areas for improvement.<br>
 
 Top customers like Hariwansh and Madhavi drive significant sales.<br>
-
+![image alt](https://github.com/Shaw-hap/Power_Bi/blob/ac272eb3d91f2e24e1a12bd174a633f6c5e44c74/screen_sort.png)
 
